@@ -1,2 +1,2 @@
-#Fitur Baru
-Belajar dicoding itu seru dan menyenangkan
+#Fitur Baru<br>
+Github asyik pisan euy
